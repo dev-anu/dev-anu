@@ -1,6 +1,6 @@
 ### Hi There, I'm Anurag  👋
 
-Anurag Tripathi   |   Developer   |   EmanciTech
+### Anurag Tripathi   |   Developer   |   EmanciTech
 
 I am a Full Stack Developer and also like to design.
 
