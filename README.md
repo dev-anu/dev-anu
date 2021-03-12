@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">Anurag Tripathi | Developer | Emanci Tech</h3>
+<h3 align="center">Anurag Tripathi | Developer | WeKan</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
